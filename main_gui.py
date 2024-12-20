@@ -315,7 +315,7 @@ class TransportApp:
             self.status_bar.config(text="Результаты экспортированы")
 
     def show_about(self):
-        messagebox.showinfo("О программе", "Лабораторная работа 12\nВариант: 1\nФИО: Крачко Андрей Николаевич")
+        messagebox.showinfo("О программе", "Лабораторная работа 12\nВариант: 1\nФИО: Окотчик Алексей Олегович")
 
 if __name__ == "__main__":
     root = tk.Tk()
